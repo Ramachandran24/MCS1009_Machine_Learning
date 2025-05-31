@@ -97,3 +97,7 @@ rmse = np.sqrt(mse)
 
 print('MSE: ', mse)
 print('RMSE: ', rmse)
+
+#Output
+#MSE:  50930559684.0
+#RMSE:  225678.0
