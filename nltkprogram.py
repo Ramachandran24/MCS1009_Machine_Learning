@@ -56,3 +56,8 @@ y_pred = classifier.predict(X_test)
 # Confusion matrix
 cm = confusion_matrix(y_test, y_pred)
 print("Confusion Matrix:\n", cm)
+
+#Output
+#Confusion Matrix:
+# [[0 1]
+# [0 0]]
